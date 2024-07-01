@@ -51,6 +51,8 @@ Vou calcular também o Erro Quadrático Médio, que vai mostrar para gente o qua
     4. Linear Support Vector Machine
     5. Stochastic Gradient Descent
     6. TensorFlow
+    7. XGBoost
+    8. PyTorch
     
 Esses são alguns dos modelos que existem para fazer previsão de valores numéricos (o que chamamos de regressão). Estamos querendo calcular o preço, portanto, queremos prever um valor numérico.
 https://scikit-learn.org/stable/supervised_learning.html
