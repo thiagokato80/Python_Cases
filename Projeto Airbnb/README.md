@@ -56,3 +56,7 @@ Vou calcular também o Erro Quadrático Médio, que vai mostrar para gente o qua
     
 Esses são alguns dos modelos que existem para fazer previsão de valores numéricos (o que chamamos de regressão). Estamos querendo calcular o preço, portanto, queremos prever um valor numérico.
 https://scikit-learn.org/stable/supervised_learning.html
+
+# A ferramenta para previsão do valor a ser cobrado pode ser consultado através do arquivo Projeto_Airbnb.py
+
+-> streamlit run Projeto_Airbnb.py
