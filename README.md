@@ -57,4 +57,12 @@ Here are the explanation regarding these cases:
    * Adj R2 = 0.399 - without Rand1,2,3
    * Adj R2 = 0.392 - with Rand1,2,3 (Penalizes the usage of more variables that had no explanatory power)
 
-5) 
+5) Health Insurance Case
+   * An Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
+   * Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
+   * Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
+   * More details at the Readme doc
+    
+7) AirBNB RJ Case
+   * Build a price prediction model that allows an ordinary person who owns a property to know how much they should charge for the daily rate of their property.
+   * More details at the Readme doc
