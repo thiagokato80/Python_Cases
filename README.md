@@ -66,3 +66,7 @@ Here are the explanation regarding these cases:
 7) AirBNB RJ Case
    * Build a price prediction model that allows an ordinary person who owns a property to know how much they should charge for the daily rate of their property.
    * More details at the Readme doc
+
+8) Outlier Analysis
+   * Definition, Identification Methods and Treatment Methods (in Portuguese)
+   * Data udes > DATA Folder
